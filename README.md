@@ -155,8 +155,6 @@ LIMIT 10;
 ## 📊 Tableau Dashboard
 [View Interactive Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/AlaaRazaq/Dashboard12)
 
-![](Dashboard)
-
 ## 📈 Dashboard Components
 
 ### 1. Wildfire Trend Over Time
@@ -177,7 +175,7 @@ Bar chart highlighting highest wildfire counts
 
 ### 5. Interactive Filter
 
-Year slider for dynamic exploration
+![](Dashboard.png)
 
 ---
 
