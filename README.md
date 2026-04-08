@@ -46,7 +46,6 @@ Wildfires have significant environmental and economic impacts in California. Und
 **Source:** Public wildfire dataset (Kaggle / government data)
 link: https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020<img width="468" height="57" alt="image" src="https://github.com/user-attachments/assets/2b172724-d897-4e4c-a589-8dc62a95e775" />
 
-
 **Fields used:**
 
 * Year (Archiveyear → renamed to Year)
