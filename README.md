@@ -151,6 +151,9 @@ LIMIT 10;
 ---
 
 ## 📈 Dashboard Components
+## 📊 Tableau Dashboard
+
+[View Interactive Dashboard](PASTE_YOUR_LINK_HERE)
 
 ### 1. Wildfire Trend Over Time
 
