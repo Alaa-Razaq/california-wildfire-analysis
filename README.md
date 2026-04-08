@@ -155,27 +155,16 @@ LIMIT 10;
 ## 📊 Tableau Dashboard
 [View Interactive Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/AlaaRazaq/Dashboard12)
 
-## 📈 Dashboard Components
-
-### 1. Wildfire Trend Over Time
-
-Line chart showing number of fires per year
-
-### 2. Wildfire Distribution Map
-
-Map showing wildfire counts by county
-
-### 3. Total Acres Burned
-
-Area chart showing wildfire impact over time
-
-### 4. Top 10 Counties
-
-Bar chart highlighting highest wildfire counts
-
-### 5. Interactive Filter
-
 ![](Dashboard.png)
+
+This dashboard visualizes wildfire trends across California, including incident frequency, acres burned, and geographic distribution. It highlights high-risk regions and patterns over time, helping inform resource allocation and wildfire prevention strategies.
+
+### Key Dashboard Features:
+- Total fires over time
+- Acres burned trend
+- County-level distribution
+- Year-over-year comparison
+- High-risk regions
 
 ---
 
