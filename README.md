@@ -154,6 +154,7 @@ LIMIT 10;
 
 ## 📊 Tableau Dashboard
 [View Interactive Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/AlaaRazaq/Dashboard12)
+![](Dashboard)
 
 ## 📈 Dashboard Components
 
