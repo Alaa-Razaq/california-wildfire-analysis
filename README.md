@@ -155,6 +155,18 @@ LIMIT 10;
 ## 📊 Tableau Dashboard
 [View Interactive Dashboard](https://10ay.online.tableau.com/t/kadem5-0ccf4fe8aa/views/AlaaRazaq/Dashboard12)
 
+
+## 📊 Dashboard
+
+📌 Note: Interactive dashboard link is not available. Screenshot shown represents the final Tableau dashboard.
+
+### 📌 Dashboard Overview
+
+This dashboard presents key insights from the dataset, including performance trends, category breakdowns, and key metrics used for business analysis.
+
+📌 Built using Tableau with interactive filters and visual analysis.
+
+
 ![](Dashboard.png)
 
 This dashboard visualizes wildfire trends across California, including incident frequency, acres burned, and geographic distribution. It highlights high-risk regions and patterns over time, helping inform resource allocation and wildfire prevention strategies.
